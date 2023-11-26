@@ -1,0 +1,9 @@
+C:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02/build/CMakeFiles/Experimental.dir
+C:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02/build/CMakeFiles/Nightly.dir
+C:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02/build/CMakeFiles/Continuous.dir
+C:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02/build/CMakeFiles/information.dir
+C:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02/build/CMakeFiles/PACKAGE.dir
+C:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02/build/CMakeFiles/ZERO_CHECK.dir

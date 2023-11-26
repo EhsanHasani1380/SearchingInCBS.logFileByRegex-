@@ -1,0 +1,11 @@
+2023-11-10 23:39:22, Info                  CBS    Starting TiWorker initialization.
+2023-11-10 23:39:22, Info                  CBS    Lock: New lock added: TiWorkerClassFactory, level: 30, total lock:2
+2023-11-10 23:39:22, Info                  CBS    Ending TiWorker initialization.
+2023-11-10 23:39:22, Info                  CBS    Starting the TiWorker main loop.
+2023-11-10 23:39:22, Info                  CBS    TiWorker starts successfully.
+2023-11-10 23:39:22, Info                  CBS    Lock: New lock added: CCbsWorker, level: 5, total lock:3
+2023-11-10 23:39:22, Info                  CBS    InitializeUpdateReserves called
+2023-11-10 23:40:18, Info                  CBS    Universal Time is: 2023-11-11 07:40:18.892
+2023-11-10 23:40:18, Info                  CBS    Loaded Servicing Stack v10.0.19041.1220 with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.1220_none_7e21bc567c7ed16b\cbscore.dll
+2023-11-10 23:40:18, Info                  CBS    Build: 19041.1.amd64fre.vb_release.191206-1406
+2023-11-10 23:40:18, Info                  CSI    00000001@2023/11/11:07:40:18.892 WcpInitialize: wcp.dll version 10.0.19041.1220 (WinBuild.160101.0800)

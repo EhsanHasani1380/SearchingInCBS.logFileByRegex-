@@ -1,0 +1,10 @@
+^C:\USERS\EHSAN\DOCUMENTS\VISUAL STUDIO 2022\SOURCES\TASK02\BUILD\CMAKEFILES\5024C71635F2C74EB7F26B653FB74A0F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02" "-BC:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Ehsan/Documents/Visual Studio 2022/sources/task02/build/information.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
